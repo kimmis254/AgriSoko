@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447980469903",
+    "project_id": "agrisoko2",
+    "storage_bucket": "agrisoko2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447980469903:android:1029768227cb5ea870fafa",
+        "android_client_info": {
+          "package_name": "com.example.agrisoko2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MrcYBks44OHmg6xzzrJ7CVO8uDCakLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
